@@ -1,54 +1,13 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
-
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
-
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
-
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
-
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
-
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
-
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
-# Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
-# Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Akordiyon şeklinde - “zigzag” şeklinde - katlanmış bir kağıdı mı, yoksa bir tüp - silindir - haline getirilmiş bir kağıdı bükmek mi daha kolaydır; kağıttan bir köprüyü nasıl en güçlü hale getirebiliriz? A4 kağıdı ve bir miktar yapıştırcı kullanarak yaklaşık 280 mm uzunluğunda bir köprü inşa edeceğiz. Amacımız köprümüzü yapabileceğimiz en güçlü şekilde inşa etmek ve bunu yaparken de bazı parametreler kullanmak. Bunu - en fazla yükü nasıl taşıyabileceğini - öğrenebilmek için A4 boyutundaki kağıdı veya kağıtları, akordiyon veya silindir formunda; kağıt sayısı, kağıdın gramajı (ağırlığı), akordiyon şeklinde ise oluşan “zigzag”ların yüksekliği, katlanma sayısı, silindir şeklinde ise silindirin kalınlığı gibi parametreler üzerinden değerlendireceğiz. Bu değerlendirmeleri yaparken oluşturduğumuz köprülerin üzerine ağırlıkları farklı yükler koyarak onların yük taşıma kapasitelerini test etmiş olacağız. Ve bu yükleri de köprünün tam merkezine ya da uç kısımlarına koymayı deneyerek bunu yapmanın köprünün yük taşıma kapasitesine etkisi olup olmadığını göreceğiz.
+
+# Giriş (Introduction)
+
+Proje konumuz özette yazdığımız gibi '' Zigzag halindeki bir kağıt mı yoksa rulo şeklindeki bir kağıt mı daha zor bükülür?'' Projenin ortaya çıkma konusu bu soru olsa da bu soruyu geliştirerek yani bunun gibi birçok soruya uyarlayarak projemizi farklı parametreler kullanarak test edeceğiz. Örneğin: Kalın kağıtla yapılan köprü mü ince kağıt ile yapılan köprü mü daha sağlam olur? Kısa bir köprü ile mi yoksa uzun bir köprü ile mi daha çok yük taşıyabiliriz? Amacımız her şekilde köprümüzü en güçlü hale getirmek. Biz projemize çıkış sorumuzdan yola çıkarak; '' Zigzag şeklinde katlayarak yaptığımız köprü rulo şeklindeki köprüden daha çok yük taşır.'' hipozeti ile başladık.
+''Science Projct Ideas'2 sayfasında Janice VanCleave'in de bu konuda bir çalışması olduğunu gördük. O yaptığı köprünün bacaklarını kitaplardan yapmayı tercih ederken biz silindir şeklinde rulolar kullandık. Ayrıca o yaptığı köprüde zigzag şeklindeki kağıt ile düz bir kağıdı karşılaştırmış. Aynı internet sitesindeki Jennifer A.'nın çalışmasından ve IYPT 2013 arşivindeki çalışmalardan yararlandık. 
+
+# Materyal ve Yöntem (Experimental Setup)
 
 * Çalışmanın yöntemi veya araştırma deseni,
 * Çalışma  grubunuz,  evreniniz,  örnekleminiz 
